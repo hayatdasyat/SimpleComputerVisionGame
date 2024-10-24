@@ -35,7 +35,10 @@ Running the script:
    **(C:\Users\<Username>\PycharmProjects\<your_project_name>\)**
 
 4. In pycharm please install the required dependencies, use the terminal:
+   
+   ![Pychsrm GUI](./terminal.png)
+   
    **pip install ultralytics**
 
-5. In pycharm's terminal you can run this command or click the run button:
+6. In pycharm's terminal you can run this command or click the run button:
    **python detection_of_object_game.py**
