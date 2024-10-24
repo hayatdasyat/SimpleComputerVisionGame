@@ -23,6 +23,19 @@ This game is designed to introduce students to the basics of computer vision by 
 
 ## Setup
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/SimpleComputerVisionGame.git
+Pre-requisite:
+1. Install pycharm into your system. Follow this great instruction by kjdElectronics link:
+   www.youtube.com/watch?v=0y5XlNeFxNk
+
+Running the script: 
+1. Download the script:
+   **detection_of_object_game.py**
+   
+3. Move the script into your project directory it should look like this:
+   C:\Users\<Username>\PycharmProjects\<your_project_name>\
+
+4. In pycharm please install the required dependencies, use the terminal:
+   **pip install ultralytics**
+
+5. In pycharm's terminal you can run this command or click the run button:
+   python detection_of_object_game.py
